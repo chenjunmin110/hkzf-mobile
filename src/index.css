@@ -1,0 +1,10 @@
+body {
+  height: 100%;
+  font-family: 'Microsoft YaHei';
+  color: #333333;
+  background: #ffffff;
+}
+
+* {
+  box-sizing: border-box;
+}
